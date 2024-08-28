@@ -4,12 +4,12 @@
         <Number>LATEST</Number>
     </Version>
     <Version>
+        <Number>24.20</Number>
+    </Version>
+    <Version>
         <Number>14.30</Number>
     </Version>
     <Version>
         <Number>8.51</Number>
-    </Version>
-    <Version>
-        <Number>24.20</Number>
     </Version>
 </Versions>
